@@ -1,6 +1,6 @@
 {
   "name": "simple-html-template",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "This is a very simple HTML template Engine for Node JS. Where you can choose what will be openning tag and closing tag",
   "main": "engine.js",
   "scripts": {
