@@ -1,8 +1,11 @@
 # simple-html-template
 This is a very simple HTML template Engine for Node JS. Where you can choose what will be openning tag and closing tag
-To install , execute the command 
 
+To install , execute the command 
 **npm install simple-html-template**
+
+To have it updated in dependencies section in your package.json too execute the below command for installing the module
+**npm install simple-html-template --save**
 
 To use this Template engine, in your Nodejs code
 
