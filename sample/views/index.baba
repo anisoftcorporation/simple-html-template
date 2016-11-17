@@ -1,0 +1,7 @@
+<title>
+<?title/?>
+</title>
+<body>
+<h1><?message1/?></h1>
+<p><?message2/?></p><h1><?message1/?></h1>
+</body>
