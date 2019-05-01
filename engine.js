@@ -28,8 +28,9 @@
 	{
 
 		var token = open_tag+keys[i]+close_tag;
-	rendered = rendered.replace(token, options[keys[i]])
-   
+        if(rendered.search(token) >= 0){
+            rendered = rendered.replace(token, options[keys[i]]);
+        }
 	
 	}
 
